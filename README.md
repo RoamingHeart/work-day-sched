@@ -6,6 +6,8 @@ A simple work day scheduler made using the basics of HTML, JavaScript, and CSS w
 
 ## Website Link
 
+[Website deployed link](https://roamingheart.github.io/work-day-sched/)
+
 ## Website Preview
 ![Preview of the Work Schedule Planner](./assets/images/work-schedule-preview.jpg)
 
